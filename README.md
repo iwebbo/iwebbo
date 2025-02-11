@@ -6,8 +6,8 @@
 
 ## 📌 Social Network: 
 
-[![Tiktok](https://img.shields.io/badge/Tiktok-FCC624?style=for-the-badge&logo=tiktok&logoColor=black)](https://www.tiktok.com/@ae.coding)
-[![Youtube](https://img.shields.io/badge/Youtube-FCC624?style=for-the-badge&logo=Youtube&logoColor=black)](https://www.youtube.com/@AECoding-r6w)
+[![Tiktok](https://img.shields.io/badge/Tiktok-181717?style=for-the-badge&logo=tiktok&logoColor=black)](https://www.tiktok.com/@ae.coding)
+[![Youtube](https://img.shields.io/badge/Youtube-181717?style=for-the-badge&logo=Youtube&logoColor=black)](https://www.youtube.com/@AECoding-r6w)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iwebbo)  
 
 ## 🖥 Technologies / Knwoledges:
