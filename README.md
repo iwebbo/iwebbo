@@ -7,8 +7,8 @@
 ## 📌 Social Network: 
 
 ![Tiktok](https://img.shields.io/badge/Tiktok-FCC624?style=for-the-badge&logo=tiktok&logoColor=black) 
-
 ![Youtube](https://img.shields.io/badge/Youtube-FCC624?style=for-the-badge&logo=Youtube&logoColor=black) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tonprofil)  
 
 ## 🖥 Technologies / Knwoledges:
 
