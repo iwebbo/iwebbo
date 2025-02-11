@@ -6,9 +6,9 @@
 
 ## 📌 Social Network: 
 
-![Tiktok](https://img.shields.io/badge/Tiktok-FCC624?style=for-the-badge&logo=tiktok&logoColor=black) : https://www.tiktok.com/@ae.coding
+![Tiktok](https://img.shields.io/badge/Tiktok-FCC624?style=for-the-badge&logo=tiktok&logoColor=black) 
 
-![Youtube](https://img.shields.io/badge/Youtube-FCC624?style=for-the-badge&logo=Youtube&logoColor=black) : https://www.youtube.com/@AECoding-r6w
+![Youtube](https://img.shields.io/badge/Youtube-FCC624?style=for-the-badge&logo=Youtube&logoColor=black) 
 
 ## 🖥 Technologies / Knwoledges:
 
