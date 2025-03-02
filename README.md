@@ -19,8 +19,8 @@
 ### ⚙️ DevOps & Infra  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-FCC624?style=for-the-badge&logo=Bitbucket&logoColor=black) ![Artifactory](https://img.shields.io/badge/Artifactory-FCC624?style=for-the-badge&logo=Artifactory&logoColor=black) ![Jenkins](https://img.shields.io/badge/Jenkins-FCC624?style=for-the-badge&logo=Jenkins&logoColor=black) ![Terraform](https://img.shields.io/badge/Terraform-FCC624?style=for-the-badge&logo=Terraform&logoColor=black)
 
-### 📷 IA from Computer  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Yolov](https://img.shields.io/badge/Yolov-FCC624?style=for-the-badge&logo=Yolov&logoColor=black) ![Tracking](https://img.shields.io/badge/Tracking-FCC624?style=for-the-badge&logo=Tracking&logoColor=black)
+### 📷 IA Learning 
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Yolov](https://img.shields.io/badge/Yolov-FCC624?style=for-the-badge&logo=Yolov&logoColor=black) ![Tracking](https://img.shields.io/badge/Tracking-FCC624?style=for-the-badge&logo=Tracking&logoColor=black) ![LLM](https://img.shields.io/badge/LLM-FCC624?style=for-the-badge&logo=LLM&logoColor=black)
 
 
 ### 💻 OS  
