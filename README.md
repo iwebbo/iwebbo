@@ -29,9 +29,3 @@
 ### 🛠️ Hardware  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Raspberrypi](https://img.shields.io/badge/Raspberrypi-FCC624?style=for-the-badge&logo=Raspberrypi&logoColor=black)
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iwebbo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats de iwebbo" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwebbo&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" />
-</p>
