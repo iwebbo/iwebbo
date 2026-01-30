@@ -8,7 +8,7 @@
 > Ready-to-use CI/CD pipeline templates
 - **Tech**: Jenkins, GitLab CI, GitHub Actions
 - **Features**: Multi-language support, Security scanning, Auto-deployment
-- ![Stars](https://img.shields.io/github/stars/username/repo?style=social)
+- ![Stars](https://img.shields.io/github/stars/iwebbo/repo?style=social)
 
 ## 📌 Social Network: 
 
