@@ -4,6 +4,12 @@
 
 ---
 
+#### 🔹 [CI-CD-Pipeline-Templates](lien-repo)
+> Ready-to-use CI/CD pipeline templates
+- **Tech**: Jenkins, GitLab CI, GitHub Actions
+- **Features**: Multi-language support, Security scanning, Auto-deployment
+- ![Stars](https://img.shields.io/github/stars/username/repo?style=social)
+
 ## 📌 Social Network: 
 
 [![Tiktok](https://img.shields.io/badge/Tiktok-181717?style=for-the-badge&logo=tiktok&logoColor=black)](https://www.tiktok.com/@ae.coding)
