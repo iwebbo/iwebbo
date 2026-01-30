@@ -3,8 +3,38 @@
 Engineer/Devops from 15+ years - Automatisation - IA Learning - IA Automation
 
 ---
-#### 🔹 [Ansible]([https://github.com/iwebbo/Jenkins](https://github.com/iwebbo/Ansible))
-> Ready-to-use CI/CD pipeline templates
+#### 🔹 [RAG.io](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [THEAI.io](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [AgentRAG.io](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [LLM.io](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [script](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [Terraform](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [Jenkins-Library-Shared-Ansible](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [DevOps-Pipeline-Toolkit](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [AnsibleRoleDoc](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [ChocolateyTemplate](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [AnsibleStructure](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [YolovTools](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [ReolinkIA](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [yolov5-mouse-control](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [yolov8-tracking-fps](https://github.com/iwebbo/yolov8-tracking-fps)
+> Lot of roles for Ansible
+#### 🔹 [Ansible](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
 #### 🔹 [Jenkins](https://github.com/iwebbo/Jenkins)
 > Ready-to-use CI/CD pipeline templates
 
