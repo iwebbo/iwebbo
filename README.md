@@ -10,7 +10,16 @@ Engineer/Devops from 15+ years - Automatisation - IA Learning - IA Automation
 
 ## 🖥 Technologies / Knwoledges:
 
-### 🔹 Langages  
+### 🔹 Langages 
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2b%2b&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=plastic&logo=powershell&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=plastic&logo=yaml&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Powershell](https://img.shields.io/badge/Powershell-FCC624?style=for-the-badge&logo=Powershell&logoColor=black) ![YAML](https://img.shields.io/badge/YAML-FCC624?style=for-the-badge&logo=Yaml&logoColor=black) ![Shell](https://img.shields.io/badge/Shell-FCC624?style=for-the-badge&logo=Shell&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-FCC624?style=for-the-badge&logo=PHP&logoColor=black) ![Perl](https://img.shields.io/badge/Perl-FCC624?style=for-the-badge&logo=Perl&logoColor=black)
 
 
