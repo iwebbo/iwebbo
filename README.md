@@ -3,43 +3,8 @@
 Engineer/Devops from 15+ years - Automatisation - IA Learning - IA Automation
 
 ---
-#### 🔹 [RAG.io](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
-#### 🔹 [THEAI.io](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
-#### 🔹 [AgentRAG.io](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
-#### 🔹 [LLM.io](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
-#### 🔹 [script](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
-#### 🔹 [Terraform](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
-#### 🔹 [Jenkins-Library-Shared-Ansible](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
-#### 🔹 [DevOps-Pipeline-Toolkit](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
-#### 🔹 [AnsibleRoleDoc](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
-#### 🔹 [ChocolateyTemplate](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
-#### 🔹 [AnsibleStructure](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
-#### 🔹 [YolovTools](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
-#### 🔹 [ReolinkIA](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
-#### 🔹 [yolov5-mouse-control](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
-#### 🔹 [yolov8-tracking-fps](https://github.com/iwebbo/yolov8-tracking-fps)
-> Lot of roles for Ansible
-#### 🔹 [Ansible](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
-#### 🔹 [Jenkins](https://github.com/iwebbo/Jenkins)
-> Ready-to-use CI/CD pipeline templates
 
-
-## 🖥 Technologies / Knwoledges:
+## Technologies / Knwoledges:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white)
@@ -85,7 +50,45 @@ Engineer/Devops from 15+ years - Automatisation - IA Learning - IA Automation
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=plastic&logo=elasticsearch&logoColor=white)
 
-### 🔧 Hardware & IoT
+### Hardware & IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=arduino&logoColor=white)
 ![Raspberry_Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=plastic&logo=raspberry-pi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=plastic&logo=espressif&logoColor=white)
+
+---
+
+#### 🔹 [RAG.io](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [THEAI.io](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [AgentRAG.io](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [LLM.io](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [script](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [Terraform](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [Jenkins-Library-Shared-Ansible](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [DevOps-Pipeline-Toolkit](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [AnsibleRoleDoc](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [ChocolateyTemplate](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [AnsibleStructure](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [YolovTools](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [ReolinkIA](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [yolov5-mouse-control](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [yolov8-tracking-fps](https://github.com/iwebbo/yolov8-tracking-fps)
+> Lot of roles for Ansible
+#### 🔹 [Ansible](https://github.com/iwebbo/Ansible)
+> Lot of roles for Ansible
+#### 🔹 [Jenkins](https://github.com/iwebbo/Jenkins)
+> Ready-to-use CI/CD pipeline templates
+
