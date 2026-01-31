@@ -9,7 +9,6 @@ Engineer/Devops from 15+ years - Automatisation - IA Learning - IA Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2b%2b&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=plastic&logo=powershell&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=plastic&logo=yaml&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white)
@@ -58,35 +57,39 @@ Engineer/Devops from 15+ years - Automatisation - IA Learning - IA Automation
 ---
 
 #### 🔹 [RAG.io](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
+> Enterprise-grade RAG platform with multi-provider LLM support, document intelligence, and real-time streaming
 #### 🔹 [THEAI.io](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
+> Monitoring tools & Vulnerability scan
 #### 🔹 [AgentRAG.io](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
+> Enterprise-grade RAG & Agent MCP platform with multi-provider LLM support, document intelligence, and real-time streaming
 #### 🔹 [LLM.io](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
+> Universal chat platform with multi-provider support, advanced template management, token tracking, and GDPR compliance
+#### 🔹 [IATrainerV2](https://github.com/iwebbo/IATrainerV2)
+> IATrainerv2 on Docker
+#### 🔹 [IATrainer](https://github.com/iwebbo/IATrainer)
+> IATrainer on Python
 #### 🔹 [script](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
+> Somes scripts for management, monitoring, docker, kubernetes..
 #### 🔹 [Terraform](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
+> Terraform Repository
 #### 🔹 [Jenkins-Library-Shared-Ansible](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
+> Jenkins Ansible Shared Library
 #### 🔹 [DevOps-Pipeline-Toolkit](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
+> DevOps Pipeline Toolkit
 #### 🔹 [AnsibleRoleDoc](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
+> Creation of documentation Roles Ansible
 #### 🔹 [ChocolateyTemplate](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
+> Create package nuget
 #### 🔹 [AnsibleStructure](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
+> Create a ansible structure project
 #### 🔹 [YolovTools](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
+> A sample repo with Yolov Tools post check
 #### 🔹 [ReolinkIA](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
+> C++ Project
 #### 🔹 [yolov5-mouse-control](https://github.com/iwebbo/Ansible)
-> Lot of roles for Ansible
+> A sample yolov5 mouse control with an Arduino Leonardo & USB Host shield 2.0
 #### 🔹 [yolov8-tracking-fps](https://github.com/iwebbo/yolov8-tracking-fps)
-> Lot of roles for Ansible
+> How to use Yolov8 for a tracking in FPS
 #### 🔹 [Ansible](https://github.com/iwebbo/Ansible)
 > Lot of roles for Ansible
 #### 🔹 [Jenkins](https://github.com/iwebbo/Jenkins)
