@@ -56,7 +56,7 @@ Engineer/Devops from 15+ years - Automatisation - IA Learning - IA Automation
 
 ---
 
-#### 🔹 [RAG.io](https://github.com/iwebbo/Ansible)
+#### 🔹 [RAG.io]([https://github.com/iwebbo/Ansible](https://github.com/iwebbo/RAG.io))
 > Enterprise-grade RAG platform with multi-provider LLM support, document intelligence, and real-time streaming
 #### 🔹 [THEAI.io](https://github.com/iwebbo/Ansible)
 > Monitoring tools & Vulnerability scan
