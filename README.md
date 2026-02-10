@@ -56,37 +56,39 @@ Engineer/Devops from 15+ years - Automatisation - IA Learning - IA Automation
 
 ---
 
-#### 🔹 [RAG.io]([https://github.com/iwebbo/Ansible](https://github.com/iwebbo/RAG.io))
+#### 🔹 [DocVector.io](https://github.com/iwebbo/DocVector)
+> Create and upload your documents into Opensearch
+#### 🔹 [RAG.io](https://github.com/iwebbo/RAG.io)
 > Enterprise-grade RAG platform with multi-provider LLM support, document intelligence, and real-time streaming
-#### 🔹 [THEAI.io](https://github.com/iwebbo/Ansible)
+#### 🔹 [THEAI.io](https://github.com/iwebbo/THEAI)
 > Monitoring tools & Vulnerability scan
-#### 🔹 [AgentRAG.io](https://github.com/iwebbo/Ansible)
+#### 🔹 [AgentRAG.io](https://github.com/iwebbo/AgentRAG.io)
 > Enterprise-grade RAG & Agent MCP platform with multi-provider LLM support, document intelligence, and real-time streaming
-#### 🔹 [LLM.io](https://github.com/iwebbo/Ansible)
+#### 🔹 [LLM.io](https://github.com/iwebbo/LLM.io)
 > Universal chat platform with multi-provider support, advanced template management, token tracking, and GDPR compliance
 #### 🔹 [IATrainerV2](https://github.com/iwebbo/IATrainerV2)
 > IATrainerv2 on Docker
 #### 🔹 [IATrainer](https://github.com/iwebbo/IATrainer)
 > IATrainer on Python
-#### 🔹 [script](https://github.com/iwebbo/Ansible)
+#### 🔹 [script](https://github.com/iwebbo/script)
 > Somes scripts for management, monitoring, docker, kubernetes..
-#### 🔹 [Terraform](https://github.com/iwebbo/Ansible)
+#### 🔹 [Terraform](https://github.com/iwebbo/Terraform)
 > Terraform Repository
-#### 🔹 [Jenkins-Library-Shared-Ansible](https://github.com/iwebbo/Ansible)
+#### 🔹 [Jenkins-Library-Shared-Ansible](https://github.com/iwebbo/Jenkins-Library-Shared-Ansible)
 > Jenkins Ansible Shared Library
-#### 🔹 [DevOps-Pipeline-Toolkit](https://github.com/iwebbo/Ansible)
+#### 🔹 [DevOps-Pipeline-Toolkit](https://github.com/iwebbo/DevOps-Pipeline-Toolkit)
 > DevOps Pipeline Toolkit
-#### 🔹 [AnsibleRoleDoc](https://github.com/iwebbo/Ansible)
+#### 🔹 [AnsibleRoleDoc](https://github.com/iwebbo/AnsibleRoleDoc)
 > Creation of documentation Roles Ansible
-#### 🔹 [ChocolateyTemplate](https://github.com/iwebbo/Ansible)
+#### 🔹 [ChocolateyTemplate](https://github.com/iwebbo/ChocolateyTemplate)
 > Create package nuget
-#### 🔹 [AnsibleStructure](https://github.com/iwebbo/Ansible)
+#### 🔹 [AnsibleStructure](https://github.com/iwebbo/AnsibleStructure)
 > Create a ansible structure project
-#### 🔹 [YolovTools](https://github.com/iwebbo/Ansible)
+#### 🔹 [YolovTools](https://github.com/iwebbo/YolovTools)
 > A sample repo with Yolov Tools post check
-#### 🔹 [ReolinkIA](https://github.com/iwebbo/Ansible)
+#### 🔹 [ReolinkIA](https://github.com/iwebbo/ReolinkIA)
 > C++ Project
-#### 🔹 [yolov5-mouse-control](https://github.com/iwebbo/Ansible)
+#### 🔹 [yolov5-mouse-control](https://github.com/iwebbo/yolov5-mouse-control)
 > A sample yolov5 mouse control with an Arduino Leonardo & USB Host shield 2.0
 #### 🔹 [yolov8-tracking-fps](https://github.com/iwebbo/yolov8-tracking-fps)
 > How to use Yolov8 for a tracking in FPS
