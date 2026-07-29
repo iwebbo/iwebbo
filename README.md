@@ -6,8 +6,7 @@ Engineer/DevOps from 15+ years - Automation - AI Learning - AI Automation
 
 ## Technologies / Knowledge:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2b%2b&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=plastic&logo=powershell&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=plastic&logo=yaml&logoColor=white)
