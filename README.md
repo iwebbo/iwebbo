@@ -64,6 +64,7 @@ Engineer/DevOps from 15+ years - Automation - AI Learning - AI Automation
 | [THEAI.io](https://github.com/iwebbo/THEAI) | Monitoring tools & Vulnerability scan |
 | [AgentRAG.io](https://github.com/iwebbo/AgentRAG.io) | Enterprise-grade RAG & Agent MCP platform with multi-provider LLM support, document intelligence, and real-time streaming |
 | [LLM.io](https://github.com/iwebbo/LLM.io) | Universal chat platform with multi-provider support, advanced template management, token tracking, and GDPR compliance |
+| [FbxApi](https://github.com/iwebbo/FbxApi) | Get Token & Get inventory from FBX, push to Opensearch & Fetch from Grafana, Enjoy |
 | [IATrainerV2](https://github.com/iwebbo/IATrainerV2) | IATrainerv2 on Docker |
 | [IATrainer](https://github.com/iwebbo/IATrainer) | IATrainer on Python |
 | [PythonToDockerExampleHelm](https://github.com/iwebbo/PythonToDockerExampleHelm) | Base template repository — from a Python script to a production-ready Docker image deployed on Kubernetes via Helm. |
