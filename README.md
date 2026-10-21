@@ -73,10 +73,11 @@ Engineer/DevOps from 15+ years - Automation - AI Learning - AI Automation
 
 | Project | Description |
 |---------|-------------|
+| [AgentRAG.io](https://github.com/iwebbo/AgentRAG.io) | Enterprise-grade RAG & Agent MCP platform with multi-provider LLM support, document intelligence, and real-time streaming & Agent & Scheduler & LLMJudge |
+| [LLMJudge](https://github.com/iwebbo/LLMJudge) | Answer verification - LLMJudge Every chat and RAG chat answer is checked before or after delivery  |
 | [DocVector.io](https://github.com/iwebbo/DocVector) | Create and upload your documents into Opensearch |
 | [RAG.io](https://github.com/iwebbo/RAG.io) | Enterprise-grade RAG platform with multi-provider LLM support, document intelligence, and real-time streaming |
 | [THEAI.io](https://github.com/iwebbo/THEAI) | Monitoring tools & Vulnerability scan |
-| [AgentRAG.io](https://github.com/iwebbo/AgentRAG.io) | Enterprise-grade RAG & Agent MCP platform with multi-provider LLM support, document intelligence, and real-time streaming |
 | [LLM.io](https://github.com/iwebbo/LLM.io) | Universal chat platform with multi-provider support, advanced template management, token tracking, and GDPR compliance |
 | [FbxApi](https://github.com/iwebbo/FbxApi) | Get Token & Get inventory from FBX, push to Opensearch & Fetch from Grafana, Enjoy |
 | [IATrainerV2](https://github.com/iwebbo/IATrainerV2) | IATrainerv2 on Docker |
